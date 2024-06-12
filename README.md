@@ -32,12 +32,3 @@ A lo largo de mi carrera, he tenido la oportunidad de trabajar con diversas herr
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
-## Contacto
-
-Si quieres colaborar o simplemente quieres saludar, no dudes en contactarme:
-
-- **Correo Electrónico**: [dnazariego@gmail.com](mailto:dnazariego@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nazariego/)
-
-¡Gracias por visitar mi perfil de GitHub!
-
