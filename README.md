@@ -1,15 +1,12 @@
-## Hi there 👋
-# Bienvenidos a mi GitHub
+# Bienvenidos a mi GitHub 👋
 
 ## Sobre mí
-
 ¡Hola! Soy David Nazariego, un Desarrollador de Software. Apasionado por el desarrollo de aplicaciones web, la inteligencia artificial y el diseño de interfaces. Siempre estoy buscando nuevas oportunidades para aprender y mejorar mis habilidades.
 
 Puedes encontrarme en:
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nazariego/)
 
 ## Herramientas y Tecnologías
-
 A lo largo de mi carrera, he tenido la oportunidad de trabajar con diversas herramientas y tecnologías. Aquí hay algunas de las que más utilizo:
 
 ### Lenguajes de Programación
@@ -29,6 +26,5 @@ A lo largo de mi carrera, he tenido la oportunidad de trabajar con diversas herr
 
 ### Herramientas de Desarrollo
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
