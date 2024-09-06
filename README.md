@@ -11,8 +11,10 @@
 - 💬 Si tienes alguna pregunta o quieres colaborar, ¡no dudes en contactarme!
 
 📫 **Contáctame**:
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nazariego/)
-- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/nazariegode)
+<p align="left">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" href="https://www.linkedin.com/in/nazariego/" alt="LinkedIn" height="40"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" href="https://github.com/nazariegode" alt="GitHub" height="40"/>
+</p>
 
 ---
 
