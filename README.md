@@ -16,7 +16,7 @@ A lo largo de mi carrera, he tenido la oportunidad de trabajar con diversas herr
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Frameworks y Librerías
-- ![React]([https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB](https://es.wikipedia.org/wiki/React#/media/Archivo:React.svg))
+- ![React]([[https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB](https://es.wikipedia.org/wiki/React#/media/Archivo:React.svg)](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB))
 - ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ### Bases de Datos
