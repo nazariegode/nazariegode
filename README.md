@@ -12,8 +12,12 @@
 
 📫 **Contáctame**:
 <p align="left">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" href="https://www.linkedin.com/in/nazariego/" alt="LinkedIn" height="40"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" href="https://github.com/nazariegode" alt="GitHub" height="40"/>
+  <a href="https://www.linkedin.com/in/nazariego/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" height="40"/>
+  </a>
+  <a href="https://github.com/nazariegode">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" height="40"/>
+  </a>
 </p>
 
 ---
@@ -59,3 +63,4 @@
 ---
 
 🎯 **Objetivo a corto plazo**: Mejorar mis habilidades en **desarrollo backend** y ampliar mis conocimientos en **inteligencia artificial**.
+
